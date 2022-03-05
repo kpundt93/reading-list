@@ -1,3 +1,33 @@
+# Reading List
+
+#### By: _**Katie Pundt**_
+
+#### _A web application to create a reading list_
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- React
+- npm
+- Firebase/Firestore
+- git
+- GitHub
+
+## Description
+Reading list web application created by watching the Net Ninja tutorial found [here](https://www.udemy.com/share/105lrq3@YrF7WbfG3l2xaqtvzy421RsdwgtiZhIJRTrHUgN0tpBZEcL6sglngvWPSeRl9UCk4Q==/). Once a user creates an account, they can add books to their list and delete books from their list. Users can only see books that they've added. 
+
+## Setup/Installation Requirements
+- Open the terminal on your desktop
+- Once in the terminal, use it to navigate to your desktop folder
+- Once inside your desktop folder, use the command `git clone https://github.com/kpundt93/reading-list.git`
+- After cloning the project, navigate into it using the command `cd reading-list`
+- Use the command `git remote` to confirm the creation of the new local repository
+- Install project dependencies by running the command `npm install`
+- If you receive errors in the terminal, try running `npm install` again, sometimes npm can be finicky
+- Then run the command `npm run start` to start the project server and view the application (use ctrl + c to exit the server in the terminal)
+- Open the project with the code editor of your choice
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
